@@ -5,6 +5,6 @@ numpy
 soundfile==0.12.1
 python-multipart==0.0.6
 pyyaml
-importlib.metadata
-importlib.resources
+setuptools>=65.0.0
+
 
